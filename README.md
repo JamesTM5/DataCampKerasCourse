@@ -1,8 +1,7 @@
-DataCamp Track Proposal Take Home Test
+DataCamp Keras Track Proposal (Python)
 ======
 
-This is the output from the 'take home test' part of DataCamp's Project Manager
- hiring process completed by James Griffin on 30.06.19.
+This repo is an example of a course track proposal I completed for DataCamp.  It serves as an example of a piece of learning design I have done which is not private to a particular organisation and therefore I can share it. You can read my views on the platform and the design experience at www.jamesgriffin.me/projects/datacamp.
 
 Design Notes:
 
